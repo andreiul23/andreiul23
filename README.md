@@ -2,6 +2,7 @@
 
 🎓 **2nd year Computer Science** student @ Technical University of Cluj-Napoca <br>
 🧠 I like breaking things down, building them back better, and occasionally overengineering for fun.
+
 <br>
 🤝 Building. Learning. Shipping. <br>
 🔭 Open to collabs & internships.
