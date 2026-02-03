@@ -5,10 +5,10 @@
 
 <br>
 
-**🔭 I am currently scouting for:**
-- 🤝 Open-source collaborations
-- 💡 Challenging development projects
-- 💼 Internship opportunities to level up my skills
+**
+🤝 Building. Learning. Shipping.  
+🔭 Open to collabs & internships. 
+**
 
 <br>
 
