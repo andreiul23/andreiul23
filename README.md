@@ -2,11 +2,11 @@
 
 🎓 **2nd year Computer Science** student @ Technical University of Cluj-Napoca <br>
 🧠 I like breaking things down, building them back better, and occasionally overengineering for fun.
-
 <br>
 🤝 Building. Learning. Shipping. <br>
 🔭 Open to collabs & internships.
 <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-popa23)
