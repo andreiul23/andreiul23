@@ -1,7 +1,7 @@
 ## 🚀 Hello, World! I'm Andrei.
 
-I am a **2nd year Computer Science student** at the **Technical University of Cluj-Napoca**. <br>
-*Passionate about turning complex problems into elegant solutions.*
+🎓 **2nd year Computer Science** student @ Technical University of Cluj-Napoca
+🧠 I like breaking things down, building them back better, and occasionally overengineering for fun.
 
 <br>
 
