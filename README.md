@@ -6,8 +6,8 @@
 <br>
 
 
-🤝 ** Building. Learning. Shipping. **
-🔭 ** Open to collabs & internships. **
+🤝 Building. Learning. Shipping.
+🔭 Open to collabs & internships.
 
 
 <br>
